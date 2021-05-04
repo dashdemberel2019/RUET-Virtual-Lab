@@ -14,8 +14,6 @@ if(isset($_SESSION['un']))
 }
 ?>
 
-
-
 <!DOCTYPE html>
 <html>
 <head>
